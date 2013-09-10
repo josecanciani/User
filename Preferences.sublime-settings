@@ -1,0 +1,32 @@
+{
+	"auto_complete": true,
+	"auto_match_enabled": false,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/textmate-scite-theme/SciTE.tmTheme",
+	"ctags_autocomplete": false,
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		"code/packs/*",
+		".tags*",
+		".git*",
+		"SciTE*",
+		"*.pyc"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": false,
+	"shift_tab_unindent": true,
+	"show_tab_close_buttons": false,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false
+}
