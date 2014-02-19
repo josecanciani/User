@@ -2,7 +2,7 @@
 	"auto_complete": true,
 	"auto_match_enabled": false,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/textmate-scite-theme/SciTE.tmTheme",
+	"color_scheme": "Packages/User/SciTE (SL).tmTheme",
 	"ctags_autocomplete": false,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
