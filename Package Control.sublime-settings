@@ -5,6 +5,8 @@
 		"Goto Documentation",
 		"Package Control",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
 		"Theme - Aqua",
 		"Theme - Soda",
 		"Tomorrow Color Schemes"
