@@ -1,13 +1,12 @@
 {
 	"installed_packages":
 	[
-		"Format SQL",
-		"Goto Documentation",
+		"SublimeFormatSQL",
+		"GotoDocumentation",
 		"Package Control",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
-		"Theme - Aqua",
 		"Theme - Soda",
 		"Tomorrow Color Schemes",
 		"Zeal"
