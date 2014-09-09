@@ -1,4 +1,11 @@
 [
-    { "keys": ["f1"], "command": "goto_documentation" },
-    { "keys": ["ctrl+r"], "command": "iats_browse", "args": { "openIfPathFound": true } }
+    { "keys": ["f2"], "command": "goto_documentation" },
+    { "keys": ["ctrl+r"], "command": "iats_goto_definition_or_browse", "args": { "openIfPathFound": true } },
+    { "keys": ["ctrl+shift+r"], "command": "iats_browse" },
+    { "keys": ["ctrl+shift+alt+r"], "command": "iats_browse", "args": { "openIfPathFound": true } },
+    { "keys": ["ctrl+shift+q"], "command": "iats_run_sql" },
+    { "keys": ["ctrl+shift+b"], "command": "iats_run_with_file", "args": {"command": "git gui blame"}},
+    { "keys": ["ctrl+shift+k"], "command": "iats_run_with_file", "args": {"command": "gitk"}},
+    { "keys": ["ctrl+shift+alt+k"], "command": "iats_run_with_file", "args": {"command": "gitk --follow"}},
+    { "keys": ["ctrl+shift+i"], "command": "iats_open_translation" }
 ]
