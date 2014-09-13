@@ -1,9 +1,9 @@
 {
 	"installed_packages":
 	[
-		"SublimeFormatSQL",
 		"GotoDocumentation",
 		"Package Control",
+		"SublimeFormatSQL",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
