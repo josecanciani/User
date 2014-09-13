@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"GitGutter",
 		"GotoDocumentation",
 		"Package Control",
 		"SublimeFormatSQL",
