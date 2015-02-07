@@ -23,6 +23,11 @@
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
 	"scroll_past_end": false,
 	"shift_tab_unindent": true,
 	"show_tab_close_buttons": false,

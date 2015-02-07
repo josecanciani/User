@@ -1,0 +1,8 @@
+{
+    "runSql": {
+        "server": "localhost",
+        "database": "iats",
+        "resultsInNewTab": true,
+        "mysqlCommandLineOptions": "-uroot --raw"
+    }
+}
