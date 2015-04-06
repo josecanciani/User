@@ -33,5 +33,6 @@
 	"show_tab_close_buttons": false,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"remember_open_files": true
 }
