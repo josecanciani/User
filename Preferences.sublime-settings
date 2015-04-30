@@ -13,7 +13,14 @@
 		".tags*",
 		".git*",
 		"SciTE*",
-		"*.pyc"
+		"*.pyc",
+		".nodemonignore"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		"node_modules"
 	],
 	"font_size": 10,
 	"highlight_line": true,

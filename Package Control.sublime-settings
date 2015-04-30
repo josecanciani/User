@@ -1,8 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"Better CoffeeScript",
 		"Format SQL",
-		"Goto Documentation",
+		"GotoDocumentation",
 		"Package Control",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
