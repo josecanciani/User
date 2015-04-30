@@ -7,10 +7,36 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "coffee": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "coffeelint": {
+                "@disable": true,
+                "args": [],
+                "excludes": []
+            },
+            "iatsjs": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "iatsphp": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "jshint": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
+            },
+            "json": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "strict": true
             },
             "php": {
                 "@disable": false,
@@ -20,6 +46,7 @@
         },
         "mark_style": "outline",
         "no_column_highlights_line": false,
+        "passive_warnings": false,
         "paths": {
             "linux": [],
             "osx": [],
