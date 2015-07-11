@@ -1,4 +1,2 @@
 [
-    { "keys": ["f2"], "command": "goto_documentation" },
-    { "keys": ["ctrl+r"], "command": "iats_goto_definition_or_browse", "args": { "openIfPathFound": true } }
 ]
