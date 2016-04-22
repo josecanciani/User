@@ -1,5 +1,7 @@
 [
     { "keys": ["ctrl+r"], "command": "iats_goto_definition", "args": { "openIfPathFound": true } },
     { "keys": ["ctrl+t"], "command": "new_file" },
-    { "keys": ["ctrl+n"], "command": "new_window" }
+    { "keys": ["ctrl+n"], "command": "new_window" },
+    { "keys": ["alt+shift+p"], "command": "insert_snippet", "args": { "name": "Packages/IATS/snippets/PHP/pLogSelected.sublime-snippet" } },
+    { "keys": ["ctrl+alt+shift+p"], "command": "iats_remove_debug_log_calls" }
 ]
