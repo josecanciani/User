@@ -1,3 +1,5 @@
 [
-    { "keys": ["ctrl+r"], "command": "iats_goto_definition", "args": { "openIfPathFound": true } }
+    { "keys": ["ctrl+r"], "command": "iats_goto_definition", "args": { "openIfPathFound": true } },
+    { "keys": ["ctrl+t"], "command": "new_file" },
+    { "keys": ["ctrl+n"], "command": "new_window" }
 ]
