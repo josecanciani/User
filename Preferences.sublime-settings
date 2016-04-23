@@ -12,10 +12,11 @@
 		"code/packs/*",
 		".tags*",
 		".git*",
-		"SciTE*",
+		"SciTEDirectory.properties",
 		"*.pyc",
 		"__init__.py",
-		".nodemonignore"
+		".nodemonignore",
+		"*-ca-bundle"
 	],
 	"folder_exclude_patterns":
 	[
