@@ -1,9 +1,12 @@
 {
+	"always_show_minimap_viewport": true,
 	"auto_complete": true,
 	"auto_match_enabled": false,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SciTE (SL).tmTheme",
-	"ctags_autocomplete": false,
+	"caret_style": "phase",
+    "color_scheme": "Packages/User/SciTE (SL).tmTheme",
+    "theme": "Material-Theme.sublime-theme",
+    "ctags_autocomplete": false,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -24,6 +27,10 @@
 		".git",
 		"node_modules"
 	],
+	"font_options":
+	[
+		"gray_antialias"
+	],
 	"font_size": 9,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -37,11 +44,19 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"margin": 4,
 	"remember_open_files": true,
 	"scroll_past_end": false,
 	"shift_tab_unindent": true,
 	"show_tab_close_buttons": false,
-	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+    "overlay_scroll_bars": "enabled",
+    "line_padding_top": 3,
+    "line_padding_bottom": 3,
+    "material_theme_small_tab": true,
+    "material_theme_small_statusbar": true,
+    "material_theme_compact_sidebar": true,
+    "material_theme_tabs_autowidth": true,
+    "material_theme_contrast_mode": true
 }
