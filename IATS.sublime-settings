@@ -4,5 +4,6 @@
         "database": "iats",
         "resultsInNewTab": true,
         "mysqlCommandLineOptions": "-uroot --raw"
-    }
+    },
+    "useSandboxer": true
 }
