@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Better CoffeeScript",
+		"Compare Side-By-Side",
 		"GitGutter",
 		"GotoDocumentation",
 		"Material Theme",
