@@ -43,8 +43,8 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"margin": 4,
 	"material_theme_compact_sidebar": true,
 	"material_theme_contrast_mode": true,
@@ -56,8 +56,8 @@
 	"scroll_past_end": false,
 	"shift_tab_unindent": true,
 	"show_tab_close_buttons": false,
+	"tab_size": 4,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"tab_size": 4,
 	"trim_trailing_white_space_on_save": true
 }
