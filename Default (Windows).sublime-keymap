@@ -1,3 +1,2 @@
 [
-    { "keys": ["ctrl+r"], "command": "iats_goto_definition", "args": { "openIfPathFound": true } }
 ]
