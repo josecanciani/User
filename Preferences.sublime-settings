@@ -1,64 +1,64 @@
 {
-    "always_show_minimap_viewport": true,
-    "auto_complete": true,
-    "auto_match_enabled": false,
-    "bold_folder_labels": true,
-    "caret_style": "phase",
-    "color_scheme": "Packages/User/SciTE (SL).tmTheme",
-    "ctags_autocomplete": false,
-    "detect_indentation": false,
-    "draw_white_space": "selection",
-    "ensure_newline_at_eof_on_save": true,
-    "fade_fold_buttons": false,
-    "file_exclude_patterns":
-    [
-        ".tags*",
-        ".git*",
-        "SciTEDirectory.properties",
-        "*.pyc",
-        "__init__.py",
-        ".nodemonignore",
-        "*-ca-bundle"
-    ],
-    "folder_exclude_patterns":
-    [
-        ".svn",
-        ".git",
-        "node_modules",
-        "packs"
-    ],
-    "font_options":
-    [
-        "gray_antialias"
-    ],
-    "font_size": 9,
-    "highlight_line": true,
-    "highlight_modified_tabs": true,
-    "hot_exit": false,
-    "ignored_packages":
-    [
-        "Vintage"
-    ],
-    "indent_guide_options":
-    [
-        "draw_normal",
-        "draw_active"
-    ],
-    "line_padding_bottom": 1,
-    "line_padding_top": 1,
-    "margin": 2,
-    "material_theme_compact_sidebar": true,
-    "material_theme_contrast_mode": true,
-    "material_theme_small_statusbar": true,
-    "material_theme_small_tab": true,
-    "material_theme_tabs_autowidth": true,
-    "overlay_scroll_bars": "enabled",
-    "remember_open_files": true,
-    "scroll_past_end": false,
-    "shift_tab_unindent": true,
-    "show_tab_close_buttons": false,
-    "tab_size": 4,
-    "theme": "Material-Theme.sublime-theme",
-    "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"auto_match_enabled": false,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SciTE (SL).tmTheme",
+	"ctags_autocomplete": false,
+	"detect_indentation": false,
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		".tags*",
+		".git*",
+		"SciTEDirectory.properties",
+		"*.pyc",
+		"__init__.py",
+		".nodemonignore",
+		"*-ca-bundle"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		"node_modules",
+		"./packs"
+	],
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": 2,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"overlay_scroll_bars": "enabled",
+	"remember_open_files": true,
+	"scroll_past_end": false,
+	"shift_tab_unindent": true,
+	"show_tab_close_buttons": false,
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
