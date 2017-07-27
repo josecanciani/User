@@ -1,0 +1,5 @@
+current F8F8F8
+gainboro DCDCDC
+lightgray D3D3D3
+whitesmoke F5F5F5
+facebook E9EBEE

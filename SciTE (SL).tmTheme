@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F8F8F8</string>
+				<string>#E9EBEE</string>
 				<key>caret</key>
 				<string>#000000</string>
 				<key>foreground</key>
@@ -18,7 +18,7 @@
 				<key>invisibles</key>
 				<string>#BFBFBF</string>
 				<key>lineHighlight</key>
-				<string>#FFFFEE</string>
+				<string>#F6F6EE</string>
 				<key>selection</key>
 				<string>#CCCCCC</string>
 				<key>selectionBorder</key>
@@ -35,7 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F8F8F8</string>
+				<string>#E9EBEE</string>
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
