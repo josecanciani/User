@@ -1,9 +1,10 @@
 {
     "runSql": {
-        "server": "localhost",
+        "server": "iats1",
         "database": "iats",
         "resultsInNewTab": true,
         "mysqlCommandLineOptions": "-uroot --raw"
     },
-    "useSandboxer": true
+    "useSandboxer": true,
+    "useBuddy": false
 }
