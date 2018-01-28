@@ -3,6 +3,9 @@
         "jsts": {
             "enabled": true
         },
+        "pyls": {
+            "enabled": true
+        },
         "phpls": {
             "command": [
                 "node",
