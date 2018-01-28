@@ -1,6 +1,21 @@
 {
 	"always_show_minimap_viewport": true,
 	"auto_complete": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.js"
+		},
+		{
+			"characters": ".",
+			"selector": "source.ts"
+		},
+		{
+			"characters": "<",
+			"selector": "text.html"
+		}
+	],
 	"auto_match_enabled": false,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
