@@ -25,8 +25,8 @@
             ]
         }
     },
-    "log_debug": true,
-    "log_payloads": true,
+    "log_debug": false,
+    "log_payloads": false,
     "log_stderr": true,
     "auto_show_diagnostics_panel": false,
     "only_show_lsp_completions": false
