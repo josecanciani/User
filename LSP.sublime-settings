@@ -6,23 +6,24 @@
         "pyls": {
             "enabled": true
         },
-        "phpls": {
+        "intelephense-ls": {
+            "enabled": true,
             "command": [
                 "node",
-                "~/www/vscode-intelephense/server/src/server.js"
+                "/usr/lib/node_modules/intelephense-server/lib/server.js",
+                "--stdio"
             ],
-            "enabled": true,
-            "initializationOptions": {
-                "nodePath": "/usr/bin/node"
-            },
-            "languageId": "php",
             "scopes": [
                 "source.php",
                 "embedding.php"
             ],
             "syntaxes": [
                 "Packages/PHP/PHP.sublime-syntax"
-            ]
+            ],
+            "languageId": "php",
+            "initializationOptions": {
+                "storagePath": "/tmp/intelephense"
+            }
         }
     },
     "log_debug": false,
